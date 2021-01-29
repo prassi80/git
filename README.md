@@ -47,6 +47,6 @@ A code difference that what you want to be needed that you will be clear that yo
 >>> hiii to be selected that for the interviews
 
 ### inserting urls
-[GOOGLE](https//www.google.com/)
+[GOOGLE](https://www.google.com/)
 
-[GMAIL](https//www.gmail.com/)
+[GMAIL](https://www.gmail.com/)
