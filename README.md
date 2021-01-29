@@ -16,12 +16,12 @@ _**italic bold**_
 
 ## ordered list
 
-1.cse
+1. cse
         1. cse(a)
         2. cse(b)
-2.ece
-3.civil
-4.eee
+2. ece
+3. civil
+4. eee
         1. eee(a)
         2. eee(b)
 ## unordered list
