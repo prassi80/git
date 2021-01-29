@@ -39,7 +39,7 @@ kwhqegqjgdjsgdkjnqk
 jkehqwejjetye
 
 ## blocked text
-A code difference that what you want to be needed that you will be clear that your mind set
+A code difference that what you want to be needed that you will be clear in your mind 
 
 ## NESTED BLOCK CODE
 > hii guys im telling that what you are to be connected
