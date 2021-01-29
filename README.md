@@ -51,5 +51,5 @@ A code difference that what you want to be needed that you will be clear in your
 
 [GMAIL](https://www.gmail.com/)
 
-![image of yaktocat]
+![image of yaktocat](https://github.com/prassi80/git/blob/main/pickachu.png)
 
